@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(235, 238, 243);
+   text-align: center;
+}
+.imagen{
+    height: 600px;
+    width: auto;
+    margin-right: 5;
+    
+}
+.imagenes{
+    height: 270px;
+    width: 300px;
+}
+
+
+.contenedor{
+
+width: auto;
+display: flex;
+
+}
+.linea{
+    display: flex;
+}
+div,img{
+    margin-left: auto;
+    margin-right: auto;
+
+}
